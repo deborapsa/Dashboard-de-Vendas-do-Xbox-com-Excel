@@ -23,10 +23,8 @@ Criar um dashboard no Excel que permita:
 
 ## 🖼️ Imagens do Projeto
 
-Exemplo:
-```text
-(images/dashboard.png)
-```
+### Exemplo:
+![Exemplo](dashboard.png)
 
 ---
 
