@@ -24,7 +24,7 @@ Criar um dashboard no Excel que permita:
 ## 🖼️ Imagens do Projeto
 
 ### Exemplo:
-![Exemplo](dashboard.png)
+![Exemplo](images/dashboard.png)
 
 ---
 
