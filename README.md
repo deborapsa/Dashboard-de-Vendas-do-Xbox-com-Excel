@@ -22,7 +22,6 @@ Criar um dashboard no Excel que permita:
 ---
 
 ## 🖼️ Imagens do Projeto
-*(Adicionar prints do dashboard na pasta `/images`)*
 
 Exemplo:
 ```text
