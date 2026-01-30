@@ -25,7 +25,7 @@ Criar um dashboard no Excel que permita:
 
 Exemplo:
 ```text
-/images/dashboard.png
+(images/dashboard.png)
 ```
 
 ---
